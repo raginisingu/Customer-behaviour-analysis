@@ -13,8 +13,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/bb95fbe1-4fca-4df2-9c97-dc5db06327da" />
 
-https://private-user-images.githubusercontent.com/72063042/500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzYxMzk4OTQsIm5iZiI6MTc3NjEzOTU5NCwicGF0aCI6Ii83MjA2MzA0Mi81MDA3MzE3OTgtOGJiZDVkYzktZWI2Yy00MGMxLThmMTktYzA4YjQxMDdmNjU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDE0VDA0MDYzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE5YzFhMTgyODk1MWRlY2Y1ODMzZjY4NzNlNzg5YzFlOWQwMzc0ZmNkM2NjZmEwMzNmNGRmOWMxMzI3MTNlMzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.0JkvQNc-e1KEq3yTiv6dqsUNeyyeXDZNTGYI-bYj2N0
+
 Project Workflow
 
 🛠️ How to Use This Project
